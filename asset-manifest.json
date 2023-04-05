@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-stripe-api/static/css/main.d27d5c62.css",
+    "main.js": "/test-stripe-api/static/js/main.3b6c0035.js",
+    "index.html": "/test-stripe-api/index.html",
+    "main.d27d5c62.css.map": "/test-stripe-api/static/css/main.d27d5c62.css.map",
+    "main.3b6c0035.js.map": "/test-stripe-api/static/js/main.3b6c0035.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d27d5c62.css",
+    "static/js/main.3b6c0035.js"
+  ]
+}
